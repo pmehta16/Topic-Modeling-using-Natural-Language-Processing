@@ -3,12 +3,7 @@ Author : pmehta16@uncc.edu
 # Topic-Modeling using LDA Model
 Topic Modelling to segregate news story data to different topics using Gensim, NLTK, Spacy.
 
-
-Topic modelling as the name suggests, it is a process to automatically identify topics present in a text object and to derive hidden patterns exhibited by a text corpus. Thus, assisting better decision making. Topic Modelling is different from rule-based text mining approaches that use regular expressions or dictionary-based keyword searching techniques. It is an unsupervised approach used for finding and observing the bunch of words (called “topics”) in large clusters of texts. Topics can be defined as “a repeating pattern of co-occurring terms in a corpus”. 
-Dataset under consideration for this project consists of News Stories and our task is to assign topics to those stories. For this project I will be using an LDA model to perform the topic modeling. 
-
-
-Task consist of :
+Tasks Involved :
 1. <b>Loading the dataset</b>
 Link to dataset : Dataset: https://www.kaggle.com/datasets/akash14/news-category-dataset?select=Data_Train.csv
 
