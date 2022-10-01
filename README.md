@@ -1,7 +1,7 @@
 Author : pmehta16@uncc.edu
 
 # Topic-Modeling using LDA Model
-Topic Modelling to segregate news story data to different topics using Gensim, NLTK, Spacy.
+Topic Modeling to segregate news story data to different topics using Gensim, NLTK, Spacy.
 
 Tasks Involved :
 1. <b>Loading the dataset</b>
